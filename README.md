@@ -1,16 +1,16 @@
-# 🏁 Entrega: Nu Kenzie
+# 🏁 Delivery: Nu Kenzie
 
-### :date: **Período do Projeto:** Módulo 3 - Semana 2
+### :date: **Project Period:** Module 3 - Week 2
 ### :iphone: **Mobile First =** True
-#### :computer: Acesse o projeto em funcionamento: [CLIQUE AQUI](https://nu-kenzie-plum-seven.vercel.app/) 
+#### :computer: Access the live project: [CLICK HERE](https://nu-kenzie-plum-seven.vercel.app/) 
 
 
-## **Descrição** 
-##### Este desenvolvimento foi feito com o React. A aplicação adiciona e remove entradas e despesas, de acordo com o que o usuário seleciona. Também lhe informa o valor total disponível.
+## **Description** 
+##### This development was done with React. The application allows users to add and remove income and expenses based on their selections. It also shows the total available balance.
 
-##### O principal objetivo é exercitar o que foi aprendido durante a Semana 1 e 2, no curso da Kenzie. Utilizando Props, Children, useState e métodos imutáveis.
+##### The main objective is to practice what was learned during Weeks 1 and 2 of the Kenzie course. It uses Props, Children, useState, and immutable methods.
 
-## Tecnologias utilizadas
+## Technologies used
 
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-icon">
@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="css-styled-components-icon">
 </div>
 
-###### Este foi um Projeto onde a Kenzie Academy Brasil apresentou como entrega para se criar durante uma semana específica do curso.
-> Este período está descrito em **"Período do Projeto"**.
+###### This was a project presented by Kenzie Academy Brasil as a delivery to be completed during a specific week of the course.
+> The period is described in **"Project Period"**.
+
 ##
-##### :white_check_mark: Autorizado o modo público do projeto pela Kenzie Academy Brasil.
+##### :white_check_mark: Public mode of the project authorized by Kenzie Academy Brasil.
